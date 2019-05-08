@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="FirstApp">FirstApp</string>
+    <string name="BaseName">Testing</string>
+    <string name="Text_name">Vision</string>
+    <string name="btnLogin">login</string>
+    <string name="cntDescptn">Image</string>
+    <string name="onclicks">Login</string>
+
+</resources>
